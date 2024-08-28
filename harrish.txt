@@ -1,0 +1,21 @@
+Task:
+
+1) Cloned the repo from Akshay using the ssh key.
+2) Created a file harrish.txt
+3) Created a new branch harrish
+4) Updated the text in the file harrish.txt on vs-Code and commit
+5) Switched to main branch using git switch main.
+6) Merged to the main branch.
+
+
+Commands Used:
+
+ 1) git clone <ssh key from Akshay's repo>
+ 2) touch harrish.txt
+ 3) git branch harrish
+ 4) git switch harrish
+ 5) code harrish.txt
+ 6) git add harrish.txt 
+ 7) git commit -m "Harrish's git-collab-task"
+ 8) git switch main 
+ 9) git merge harrish
