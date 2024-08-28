@@ -1,0 +1,3 @@
+Task :
+1. I have created repository on Github and shared ssh key to my team members.
+2. I have created text file.
