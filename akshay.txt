@@ -3,4 +3,13 @@ Task :
 2. I have created text file.
 3. i have created new branch "akshay".
 4. Update this text file.
-5. Then checout to main branch and merged to main.
+5. Then chechout to main branch and merged to main.
+
+
+We used following Commands:
+1. git init         #Initialized empty Git repository
+2. touch            #create file
+3. git checkout -b  #create new branch
+4. git add          #adds a change in the working directory to the staging area
+5. git commit       #Record changes to the repository
+6. git push         #upload local repository content to a remote repository.
