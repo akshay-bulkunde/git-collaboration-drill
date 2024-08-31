@@ -1,0 +1,10 @@
+* I have learned the commands for Drill-1 and Drill-2
+* I have learned to create ssh key using terminal
+* I have cloned the repo by ssh key
+* I have learned git clone which is done by  git clone command in vs code
+* I have learned about git status which shows current status of git
+* I have learned to create ssh keys which is very useful keys in cloning git repos
+* I have learned about git add command which helps in adding changed untrackable file
+* I have learned about git commit which modifies and keeps a track of your changes.
+* I have learned about git merge which merges all the sub branches from main branch
+* I have learned about git push which pushes all the changes I have done to my main account in github.
